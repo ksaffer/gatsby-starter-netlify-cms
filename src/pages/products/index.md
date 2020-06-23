@@ -95,8 +95,8 @@ pricing:
       plan: Custom
       price: ??
     - plan: Test
-      price: "200"
-      description: A Test Plan
+      price: "2009"
+      description: Test plan
       items:
-        - one item
+        - Test item
 ---
